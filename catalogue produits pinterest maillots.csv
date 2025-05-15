@@ -1,4 +1,4 @@
-id;item_group_id;title;description;;; price ;availability;condition
+id;item_group_id;title;description;link;image link; price ;availability;condition
 YE-SS25-1320-TNS;Maillots Capri;Haut de maillot Joana Tinos;"Mini triangle
 - Double liens, ajustables
 - Porté cou
@@ -10,7 +10,7 @@ YE-SS25-1320-TNS;Maillots Capri;Haut de maillot Joana Tinos;"Mini triangle
 
 Disponible en taille 1, 2, et 3.
 
-Lison porte la taille 1.";;; 85,00  EUR ;in stock;new
+Lison porte la taille 1.";https://yasmine-eslami.com/fr/produit/haut-de-maillot-joana-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye02-joana-mona-capri-ss250-23-1-1546x2048.jpg; 85,00  EUR ;in stock;new
 YE-SS25-13008-TNS;Maillots Capri;Haut de maillot Léa Tinos;"Haut de maillot triangle
 
 - Porté tour de cou
@@ -23,7 +23,7 @@ YE-SS25-13008-TNS;Maillots Capri;Haut de maillot Léa Tinos;"Haut de maillot tria
 - Fabriqué au Portugal.
 
 Disponible en taille 1, 2, et 3.
-Notre modèle porte la taille 2.";;; 90,00  EUR ;in stock;new
+Notre modèle porte la taille 2.";https://yasmine-eslami.com/fr/produit/haut-de-maillot-lea-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye04-lea-jenna-capri-ss250-13-1-1441x2048.jpg; 90,00  EUR ;in stock;new
 YE-SS25-13007-TNS;Maillots Capri;Haut de maillot Elsa Tinos;"Mini bandeau
 - Baleines latérales pour un meilleur maintien
 - Anneau ivoire
@@ -34,7 +34,7 @@ YE-SS25-13007-TNS;Maillots Capri;Haut de maillot Elsa Tinos;"Mini bandeau
 - Fabriqué au Portugal.
 
 Disponible en taille 1, 2, et 3.
-Notre modèle porte la taille 1.";;; 90,00  EUR ;in stock;new
+Notre modèle porte la taille 1.";https://yasmine-eslami.com/fr/produit/haut-de-maillot-elsa-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye03-elsa-ada-capri-ss250-19-1-1441x2048.jpg; 90,00  EUR ;in stock;new
 YE-SS25-2310-TNS;Maillots Capri;Haut de maillot Mica Tinos;"Mini triangle
 
 - Porté autour cou
@@ -48,7 +48,7 @@ YE-SS25-2310-TNS;Maillots Capri;Haut de maillot Mica Tinos;"Mini triangle
 - Fabriqué au Portugal.
 
 Disponible en taille 1, 2, et 3.
-Notre modèle porte la taille 1.";;; 80,00  EUR ;in stock;new
+Notre modèle porte la taille 1.";https://yasmine-eslami.com/fr/produit/haut-de-maillot-mica-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye01-mica-laura-capri-ss250-16-1-1592x2048.jpg; 80,00  EUR ;in stock;new
 YE-SS25-1010-TNS;Maillots Capri;Haut de maillot Maya Tinos;"Haut de maillot croisé, effet cache-coeur pour un maintien et confort optimal.
 
 - Porté épaules
@@ -63,7 +63,7 @@ YE-SS25-1010-TNS;Maillots Capri;Haut de maillot Maya Tinos;"Haut de maillot croi
 - Fabriqué au Portugal.
 
 Disponible en taille 1, 2, 3 et 4.
-Notre modèle porte la taille 2.";;; 96,00  EUR ;in stock;new
+Notre modèle porte la taille 2.";https://yasmine-eslami.com/fr/produit/haut-de-maillot-maya-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye05-maya-jenna-capri-ss250-2-1-1441x2048.jpg; 96,00  EUR ;in stock;new
 YE-SS25-13009-TNS;Maillots Capri;Haut de maillot Golda Tinos;"Porté tour de cou
 - Anneau ivoire
 - Maintien optimal grâce à sa bande élastique et ses bretelles larges
@@ -76,7 +76,7 @@ YE-SS25-13009-TNS;Maillots Capri;Haut de maillot Golda Tinos;"Porté tour de cou
 
 Disponible en taille 1, 2, 3 et 4.
 Notre modèle porte la taille 1.
-";;; 110,00  EUR ;in stock;new
+";https://yasmine-eslami.com/fr/produit/haut-de-maillot-golda-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye06-golda-ada-capri-ss250-20-1-1441x2048.jpg; 110,00  EUR ;in stock;new
 YE-SS25-2121-TNS;Maillots Capri;Bas de maillot Rebecca Tinos;"Bas de maillot échancré
 - Tissu Italien recyclé
 - Tissu éponge
@@ -84,7 +84,7 @@ YE-SS25-2121-TNS;Maillots Capri;Bas de maillot Rebecca Tinos;"Bas de maillot éch
 - Fabriqué au Portugal.
 
 Disponible en taille 1, 2, et 3.
-Notre modèle porte la taille 1.";;; 60,00  EUR ;in stock;new
+Notre modèle porte la taille 1.";https://yasmine-eslami.com/fr/produit/bas-de-maillot-rebecca-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye04-lea-jenna-capri-ss250-1-1-1446x1800.jpg; 60,00  EUR ;in stock;new
 YE-SS25-1125-TNS;Maillots Capri;Bas de maillot Laura Tinos;"Notre bas de maillot iconique.
 
 - Ajustable pour un effet plus ou moins échancré grâce aux réglettes sur les hanches
@@ -95,7 +95,7 @@ YE-SS25-1125-TNS;Maillots Capri;Bas de maillot Laura Tinos;"Notre bas de maillot
 
 Disponible en taille 1, 2, 3.
 Notre modèle porte la taille 1.
-";;; 60,00  EUR ;in stock;new
+";https://yasmine-eslami.com/fr/produit/bas-de-maillot-laura-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye01-mica-laura-capri-ss250-2-1-1446x1800.jpg; 60,00  EUR ;in stock;new
 YE-SS25-0520-TNS;Maillots Capri;Bas de maillot Mona Tinos;"Notre bas de maillot iconique, volontairement designé pour être mini.
 
 - Ajustable sur les côtés grâce aux doubles liens
@@ -108,7 +108,7 @@ YE-SS25-0520-TNS;Maillots Capri;Bas de maillot Mona Tinos;"Notre bas de maillot 
 
 Disponible en taille 1, 2, et 3.
 Notre modèle porte la taille 1.
-";;; 70,00  EUR ;in stock;new
+";https://yasmine-eslami.com/fr/produit/bas-de-maillot-mona-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye02-joana-mona-capri-ss250-6-1-1446x1800.jpg; 70,00  EUR ;in stock;new
 YE-SS25-2120-TNS;Maillots Capri;Bas de maillot Gina Tinos;"Coupe inspirée des années 70
 - Anneaux ivoires
 - Tissu Italien recyclé
@@ -117,7 +117,7 @@ YE-SS25-2120-TNS;Maillots Capri;Bas de maillot Gina Tinos;"Coupe inspirée des an
 - Fabriqué au Portugal.
 
 Disponible en taille 1, 2, et 3.
-Notre modèle porte la taille 1.";;; 65,00  EUR ;in stock;new
+Notre modèle porte la taille 1.";https://yasmine-eslami.com/fr/produit/bas-de-maillot-gina-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye06-golda-ada-capri-ss250-3-1-1446x1800.jpg; 65,00  EUR ;in stock;new
 YE-SS25-0620-TNS;Maillots Capri;Bas de maillot Ada Tinos;"Taille basse
 - Coupe bandeau inspirée des années 70
 - Tissu Italien recyclé
@@ -126,7 +126,7 @@ YE-SS25-0620-TNS;Maillots Capri;Bas de maillot Ada Tinos;"Taille basse
 - Fabriqué au Portugal.
 
 Disponible en taille 1, 2, et 3.
-Notre modèle porte la taille 1.";;; 60,00  EUR ;in stock;new
+Notre modèle porte la taille 1.";https://yasmine-eslami.com/fr/produit/bas-de-maillot-ada-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye03-elsa-ada-capri-ss250-1-1-1446x1800.jpg; 60,00  EUR ;in stock;new
 YE-SS25-6040-TNS;Maillots Capri;Maillot une-pièce Lana Tinos;"Dos échancré
 - Se noue dans le dos grâce aux liens
 - Anneaux ivoires
@@ -137,7 +137,7 @@ YE-SS25-6040-TNS;Maillots Capri;Maillot une-pièce Lana Tinos;"Dos échancré
 
 Disponible en taille 1, 2, et 3.
 Notre modèle porte la taille 1.
-";;; 135,00  EUR ;in stock;new
+";https://yasmine-eslami.com/fr/produit/maillot-une-piece-lana-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye08-lana-capri-ss250-19-1539x2048.jpg; 135,00  EUR ;in stock;new
 YE-SS25-6140-TNS;Maillots Capri;Maillot une-pièce Tina Tinos;"Bandeau
 - Anneau ivoire
 - Peut aussi se porter noué autour du cou pour plus de maintien
@@ -148,7 +148,7 @@ YE-SS25-6140-TNS;Maillots Capri;Maillot une-pièce Tina Tinos;"Bandeau
 - Fabriqué au Portugal.
 
 Disponible en taille 1, 2, et 3.
-Notre modèle porte la taille 1.";;; 140,00  EUR ;in stock;new
+Notre modèle porte la taille 1.";https://yasmine-eslami.com/fr/produit/maillot-une-piece-tina-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye11-tina-capri-ss250-15-1-1510x2048.jpg; 140,00  EUR ;in stock;new
 YE-SS25-90920-TNS;Maillots Capri;Gaïa dress;"Tissu Italien recyclé
 - Tissu éponge
 - À porter au dessus de votre maillot ou seule sous une veste pour un look sexy
@@ -156,7 +156,7 @@ YE-SS25-90920-TNS;Maillots Capri;Gaïa dress;"Tissu Italien recyclé
 
 Disponible en taille 1, et 2.
 Notre modèle porte la taille 1.
-";;; 95,00  EUR ;in stock;new
+";https://yasmine-eslami.com/fr/produit/gaia-robe-capri/;https://yasmine-eslami.com/app/uploads/2025/02/ye10-gaia-capri-ss250-15-scaled.jpg; 95,00  EUR ;in stock;new
 YE-SS25-1320-TNS;Maillots Tinos;Haut de maillot Joana Tinos;"Mini triangle
 - Double liens, ajustables
 - Porté cou
